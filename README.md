@@ -1,4 +1,4 @@
-Quicksort
+
 void quickSort(int arr[], int left, int right) {
     int i = left, j = right;
     int tmp;
